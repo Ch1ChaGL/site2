@@ -75,6 +75,7 @@ body {
   background: #A041DB;
 }
 .nav__row {
+    flex-wrap:wrap;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -93,6 +94,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+     flex-wrap:wrap;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -177,6 +179,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+     flex-wrap:wrap;
 }
 .item__image--big {
   -webkit-box-flex: 0;
